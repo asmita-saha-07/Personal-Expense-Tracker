@@ -28,7 +28,7 @@ A simple **Python-based expense tracker** that allows you to record, view, and a
 
 1. **Clone the repository**
 ```bash 
-    git clone https://github.com/your-username/personal-expense-tracker.git
+    git clone https://github.com/asmita-saha-07/personal-expense-tracker.git
 ```
 2.**Navigate to the project directory**
 ```bash 
